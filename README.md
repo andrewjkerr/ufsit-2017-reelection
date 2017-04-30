@@ -83,7 +83,7 @@ Because one candidate could not have their membership verified before the two we
 
 #### Candidates
 
-Below is the list of candidates along with their corresponding indices for each round.
+Below is the list of candidates along with their corresponding indices for each round. These indices are NOT their rank, but are just the way the CSV spreadsheet ordered them.
 
 ##### President
 
