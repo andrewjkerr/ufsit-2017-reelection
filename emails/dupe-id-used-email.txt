@@ -1,0 +1,6 @@
+Hi [name]!
+
+It seems like your unique identifier has been used to vote twice. Would you like me to nullify your first ballot and use the second ballot you submitted instead?
+
+Thanks,
+~ Andrew

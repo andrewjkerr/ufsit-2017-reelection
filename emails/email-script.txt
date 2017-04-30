@@ -1,0 +1,20 @@
+Hi there [name]!
+
+Due to a recent vote to run a re-election for the UFSIT 2017-2018 executive board, we are sending out ballots to active members via email! Read on for more information...
+
+This email contains a link to the UFSIT 2017 election ballot. In order for your ballot to count, you will need a unique identifier (shown below). This unique identifier will only be used in order to verify that a ballot is valid and was only submitted once; this identifier will NOT be used to tie your voting data to you. Once the valid ballots have been separated from the invalid ballots (invalid identifier/duplicate identifier), any and all voting data will be scrubbed and made anonymous for processing.
+
+Please do not share this unique identifier with anyone. If you do, please contact me, Andrew Kerr, via email ([REDACTED]) or via Slack (@andrew).
+
+Your unique identifier is: [unique ID]
+
+Since there are many candidates running for each position, we will be using ranked voting to determine the outcome. With ranked voting, you will rank each candidate from "best candidate" to "nth best candidate". Please take care in selecting only ONE candidate per rank. If you do not, your ballot will be marked as invalid and will be disqualified.
+
+For more information on how the votes will be counted, please watch this video: https://www.youtube.com/watch?v=oHRPMJmzBBw. It's far easier to explain with sticky notes and a scenario rather than with words. :)
+
+Ready to vote? Go ahead and copy your unique identifier and head on over to the ballot: [REDACTED]. Voting will close this Friday (April 28th) @ 23:59 EST.
+
+If you have any questions, please feel free to contact me, Andrew Kerr, via email ([REDACTED]) or via Slack (@andrew).
+
+Thanks!
+~ Andrew
