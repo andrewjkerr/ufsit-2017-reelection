@@ -212,7 +212,7 @@ Candidate 4 (Spencer Fleming) has won the treasurer position with 70% of the (ra
 
 I added Spencer's index to the `candidates_already_won` array. I also added the DQ'd candidate's index to the same array to exclude votes for them:
 
-```
+```diff
 # Did a current candidate already win another position?
 - candidates_already_won = [1, 2]
 + candidates_already_won = [1, 2, 3, 5]
